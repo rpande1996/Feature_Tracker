@@ -54,7 +54,7 @@ Corner Detection:
 
 Feature Tracking:
 
-![ezgif com-gif-maker](input/track.png)
+![ezgif com-gif-maker](output/track.png)
 
 
 
